@@ -1,3 +1,0 @@
-D:/Programming/C Plus Plus/Bob/cmake-build-debug/CMakeFiles/Bob.dir
-D:/Programming/C Plus Plus/Bob/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Programming/C Plus Plus/Bob/cmake-build-debug/CMakeFiles/rebuild_cache.dir
