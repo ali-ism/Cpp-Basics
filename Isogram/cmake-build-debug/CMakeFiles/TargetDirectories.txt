@@ -1,0 +1,3 @@
+D:/Programming/C Plus Plus/Isogram/cmake-build-debug/CMakeFiles/Isogram.dir
+D:/Programming/C Plus Plus/Isogram/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/C Plus Plus/Isogram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
